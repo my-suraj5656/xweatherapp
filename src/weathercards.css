@@ -1,0 +1,21 @@
+input {
+  padding: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+button {
+  padding: 10px 20px;
+}
+.weather-cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.weather-card {
+  border: 1px solid #e0dcdc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 150px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+}
